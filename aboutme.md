@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who am I?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Rotem. I have the following capabalities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Find and Defeat Evil
+	> Penetration testing, Bug bounty and in general hacking into anything I can get my hands on in order to protect all assets
 
-What else do you need?
+- Divine Healing Aura
+	> Creating security solutions for complex problems
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Hollistic Powers
+	> Understanding the fundamental interconnections between all things
